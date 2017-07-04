@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you run git init the command will create a .git with metadata
+that will record the changes you make to the files.
+You have to add files that need tracking with git add then start commits !
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is an anti chamber to the commit. It's where you place files that are ready to be commited
+It's useful as a review panel before making changes. So each time you finish something and you're ready
+for a commit you add it to the staging area. You can then go on with your work once you finished
+to change everything you can review and choose if you think it's logical to place all those files in
+the same commit or if some are missing. You can then go on and commit.
