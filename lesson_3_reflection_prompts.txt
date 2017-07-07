@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 If someone is commiting changes with bugs and they automatically transfer to you while you're either working on changes yourself
 you might en up with bugs. You you have control on what goes in your computer or else it'd be easy to infect someone's computer.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks clones a repository onto your account on Github. Usefule when making changes to a project but you also reference where it
+came from and allows you to make changes to a project whitout changing the author's project.
+Clones allows you to copy a rep. Branches to expand the project so you can work on feature while someone works on some other
+feature in a parallel fashion
