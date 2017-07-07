@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+When you work with a team and need to share the project with others. When you want a sort of foolproof backup of 
+your project because it's kept on Github's servers. When you change computers a lot and can't have your work "physically"
