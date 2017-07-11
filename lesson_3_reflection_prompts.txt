@@ -24,3 +24,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I'd be easier to just learn Git and harder to find anything better. Or you could try and build a better way ? An easier way would be an AI capable of
 understanding the code and who would take care of the files and make it easier to save, merge and make features or organize your work. Harder would be
 trying to use a cloud service or sending files via messaging.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you're working on something that functions "separately" like new features and you don't want to break the code. Working 
+master would be when you're looking to fix bugs in the code or improve on it for perfomance where you're kind of sure it won't break. I'd say working on branches is useful because it allows you to have a working code while you're trying out new features
+and so you can test at will. Working on master allows you to move forward easily when you're debugging without the need of
+a large set of branches for each change you make. It keeps things straight and simple.
